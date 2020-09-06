@@ -1,0 +1,1 @@
+ColorTool.zip,https://github.com/microsoft/terminal/releases/tag/1904.29002
