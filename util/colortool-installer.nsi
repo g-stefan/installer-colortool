@@ -13,7 +13,7 @@
 Name "ColorTool"
 
 ; Version
-!define ColorToolVersion "2019.04.30"
+!define ColorToolVersion "$%PRODUCT_VERSION%"
 
 ; The file to write                     
 OutFile "installer\colortool-${ColorToolVersion}-installer.exe"
