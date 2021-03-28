@@ -3,10 +3,10 @@ rem Public domain
 rem http://unlicense.org/
 rem Created by Grigore Stefan <g_stefan@yahoo.com>
 
-call build.config.cmd
+call build\build.config.cmd
 
 echo -^> make %PRODUCT_NAME%
 
-if exist release\ rmdir /Q /S release
+if exist output\ rmdir /Q /S output
 
-7z x vendor/colortool.zip -aoa -orelease
+7z x vendor/colortool.zip -aoa -ooutput
