@@ -1,0 +1,19 @@
+{
+	"solution": {
+		"name" : "installer-colortool",
+		"type" : "xyo-cpp",
+		"projects": [
+			{
+				"name" : "installer-colortool",
+				"SPDX-License-Identifier": "MIT",
+				"version" : "2019.04.30",
+				"noVersion" : true
+			}
+		],
+		"hasGithub" : true,
+		"sourceLinks" : {
+			"ColorTool.zip" : "https://github.com/microsoft/terminal/releases/tag/1904.29002"
+		}
+	}
+}
+
