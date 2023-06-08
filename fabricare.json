@@ -10,7 +10,6 @@
 				"noVersion" : true
 			}
 		],
-		"hasGithub" : true,
 		"sourceLinks" : {
 			"ColorTool.zip" : "https://github.com/microsoft/terminal/releases/tag/1904.29002"
 		}
